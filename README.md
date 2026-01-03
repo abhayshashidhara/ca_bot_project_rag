@@ -57,5 +57,5 @@ By combining dense embeddings for semantic understanding, vector similarity sear
 
 ---
 
-## Project Structure
+
 
